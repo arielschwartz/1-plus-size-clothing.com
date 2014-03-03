@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Disallow: /plus/
+Sitemap: http://www.1-plus-size-clothing.com/sitemap.xml 
